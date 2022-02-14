@@ -1,2 +1,2 @@
-# Katas-python-
+# Katas-python
 Katas de Launchx - Python 
